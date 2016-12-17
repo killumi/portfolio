@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "RobotoRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "PFCentroSlabProBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/PFCentroSlabProBold/PFCentroSlabProBold.eot?#iefix") format("embedded-opentype"), url("fonts/PFCentroSlabProBold/PFCentroSlabProBold.woff") format("woff"), url("fonts/PFCentroSlabProBold/PFCentroSlabProBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "AdineKirnbergRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/AdineKirnbergRegular/AdineKirnbergRegular.eot?#iefix") format("embedded-opentype"), url("fonts/AdineKirnbergRegular/AdineKirnbergRegular.woff") format("woff"), url("fonts/AdineKirnbergRegular/AdineKirnbergRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "BradobreiRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/BradobreiRegular/BradobreiRegular.eot?#iefix") format("embedded-opentype"), url("fonts/BradobreiRegular/BradobreiRegular.woff") format("woff"), url("fonts/BradobreiRegular/BradobreiRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "AladdinRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/AladdinRegular/AladdinRegular.eot?#iefix") format("embedded-opentype"), url("fonts/AladdinRegular/AladdinRegular.woff") format("woff"), url("fonts/AladdinRegular/AladdinRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "SourceSansProLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/SourceSansProLight/SourceSansProLight.eot?#iefix") format("embedded-opentype"), url("fonts/SourceSansProLight/SourceSansProLight.woff") format("woff"), url("fonts/SourceSansProLight/SourceSansProLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "RobotoLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"), url("fonts/RobotoLight/RobotoLight.woff") format("woff"), url("fonts/RobotoLight/RobotoLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "OpenSansLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/OpenSansLight/OpenSansLight.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSansLight/OpenSansLight.woff") format("woff"), url("fonts/OpenSansLight/OpenSansLight.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "OpenSansBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/OpenSansBold/OpenSansBold.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSansBold/OpenSansBold.woff") format("woff"), url("fonts/OpenSansBold/OpenSansBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "OpenSansRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"), url("fonts/OpenSans/OpenSansRegular/OpenSansRegular.woff") format("woff"), url("fonts/OpenSans/OpenSansRegular/OpenSansRegular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "BIGJOHN";
+  font-style: normal;
+  font-weight: normal; }
